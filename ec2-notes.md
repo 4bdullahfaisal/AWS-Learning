@@ -42,6 +42,7 @@
 ### 2. SSH Connection Setup
 
 **Git Bash Commands Used:**
+
 ```bash
 # Navigate to key file location
 cd ~/Documents
@@ -78,3 +79,4 @@ touch file2.txt
 ## Git Integration
 Now tracking all AWS labs with Git version control
 
+```
